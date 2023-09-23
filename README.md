@@ -22,7 +22,7 @@
 <!-- Github stats -->
 ---
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
 
 ![](https://github-readme-stats.vercel.app/api?username=Joel-Rodrigues404&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false)</br>
@@ -33,7 +33,20 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Rodrigues404&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+</div> -->
+
+<div align="center">
+<a href="https://github.com/Joel-Rodrigues404">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Joel-Rodrigues404&theme=radical&rank_icon=github&show_icons=true&repo-private=true" />
+
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Rodrigues404&layout=compact&langs_count=8&card_width=320&theme=radical&"/>
+
+  <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false"/>
+  </a>
+   <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</a>
+
+
 
 <!-- ✍️ Random Dev Quote -->
 <div style="text-align: center;">
@@ -46,3 +59,59 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!-- <h1> Hello There, I'm Juan Severiano </h1>
+
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+<body align="center">
+ <div align="center">
+<a href="https://github.com/Joel-Rodrigues404">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Joel-Rodrigues404&theme=radical&rank_icon=github&show_icons=true&repo-private=true" />
+
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Rodrigues404&layout=compact&langs_count=8&card_width=320&theme=radical&"/>
+  </a>
+   <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</a>
+
+</div>
+    <div class="ferramentas" align="center">
+        <br>
+        <img aling="center" alt="Juan-HTML" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+        <img aling="center" alt="Juan CSS" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img aling="center" alt="Juan JavaScript" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img aling="center" alt="Juan Python" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img aling="center" alt="Juan Arduino" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+        <img aling="center" alt="Juan VSCODE" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <img aling="center" alt="Juan fedora" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
+        <img aling="center" alt="Juan github" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        <img aling="center" alt="Juan Git" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img aling="center" alt="Juan Django" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+        <img aling="center" alt="Juan Linux" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+        <img aling="center" alt="Juan MySQL" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        <img aling="center" alt="Juan Gimp rapaz" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+    </div>
+
+## CONTATO
+
+<div align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div>
+
+</body> -->
