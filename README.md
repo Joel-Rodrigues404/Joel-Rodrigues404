@@ -7,15 +7,15 @@
 <div align="center">
 <a href="https://github.com/Joel-Rodrigues404">
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Joel-Rodrigues404&theme=radical&rank_icon=github&show_icons=true&repo-private=true"/>
+<img style="margin: 0px 2px 10px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Joel-Rodrigues404&theme=radical&rank_icon=github&show_icons=true&repo-private=true"/>
 
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Rodrigues404&layout=compact&langs_count=8&card_width=320&theme=radical&"/>
+<img style="margin: 0px 2px 10px;" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Rodrigues404&layout=compact&langs_count=8&card_width=320&theme=radical&"/>
 
-<img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false"/>
+<img style="margin: 0px 2px 10px;" height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false"/>
 
 </a>
 
-<img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img style="margin: 0px 2px 10px;" height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&"/>
 
 <!-- CONTADOR DE VISUALIZAÇÕES -->
 
