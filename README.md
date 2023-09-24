@@ -16,6 +16,7 @@
 </a>
 
 <img style="margin: 0px 2px 10px;" height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&"/>
+</div>
 
 <!-- CONTADOR DE VISUALIZAÇÕES -->
 
