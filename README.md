@@ -84,7 +84,3 @@
     <!-- TELEGRAM -->
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
-
-<div align="center">
-  <img src="https://github.com/Joel-Rodrigues404/Joel-Rodrigues404/blob/output/github-snake-dark.svg" alt="Snake animation">
-</div>
