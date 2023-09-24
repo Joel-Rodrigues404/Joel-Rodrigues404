@@ -11,9 +11,12 @@
 
 <img style="margin: 0px 2px 10px;" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Rodrigues404&layout=compact&langs_count=8&card_width=320&theme=radical&"/>
 
+</br>
+
 <img style="margin: 0px 2px 10px;" height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false"/>
 
 </a>
+</br>
 
 <img style="margin: 0px 2px 10px;" height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&"/>
 
