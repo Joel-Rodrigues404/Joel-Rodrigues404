@@ -16,7 +16,7 @@
 </a>
 
 <img style="margin: 0px 2px 10px;" height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&"/>
-</div>
+
 
 <!-- CONTADOR DE VISUALIZAÇÕES -->
 
@@ -83,4 +83,3 @@
     <!-- TELEGRAM -->
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
-
