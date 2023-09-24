@@ -5,21 +5,24 @@
 <!-- Github stats -->
 
 <div align="center">
-<a href="https://github.com/Joel-Rodrigues404">
+<a style="text-decoration: none;" href="https://github.com/Joel-Rodrigues404">
 
-<img style="margin: 0px 2px 10px;" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Joel-Rodrigues404&theme=radical&rank_icon=github&show_icons=true&repo-private=true"/>
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Joel-Rodrigues404&theme=radical&rank_icon=github&show_icons=true&repo-private=true"/>
 
-<img style="margin: 0px 2px 10px;" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Rodrigues404&layout=compact&langs_count=8&card_width=320&theme=radical&"/>
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Rodrigues404&layout=compact&langs_count=8&card_width=320&theme=radical&"/> 
 
-<img style="margin: 0px 2px 10px;" height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false"/>
+
+</br><img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false"/>
 
 </a>
 
-
-<img style="margin: 0px 2px 10px;" height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&"/>
-
 </div>
+</br>
 
+<div align="center">
+    
+<img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&"/>
+</div>
 <!-- CONTADOR DE VISUALIZAÇÕES -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Joel-Rodrigues404&icon=0&color=5)]() -->
@@ -84,6 +87,7 @@
     <!-- TELEGRAM -->
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
+<!-- COBRINHA (NAO FUNUNCIA) -->
 
 <div align="center">
   <img src="https://github.com/Joel-Rodrigues404/Joel-Rodrigues404/blob/output/github-snake-dark.svg" alt="Snake animation">
