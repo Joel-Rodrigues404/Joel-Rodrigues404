@@ -12,7 +12,7 @@
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Rodrigues404&layout=compact&langs_count=8&card_width=320&theme=radical&"/> 
 
 
-</br><img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false&mode=monthly"/>
+</br><img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Rodrigues404&theme=radical&hide_border=false&mode=weekly"/>
 
 </a>
 
