@@ -13,13 +13,16 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Gerar Snake
-        uses: Platane/snk@v2
+        uses: platane/snk@v3
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: Joel-Rodrigues404 # Substitua pelo seu nome de usuário
           outputs: dist/github-snake-dark.svg
 
       - name: Deploy para o Branch 'output'
         uses: crazy-max/ghaction-github-pages@v2
         with:
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
           target_branch: output
           build_dir: dist
