@@ -22,7 +22,8 @@ jobs:
       - name: Deploy para o Branch 'output'
         uses: crazy-max/ghaction-github-pages@v2
         with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: '20'
+          personal_token: ${{ secrets.GH_PAT }}
           publish_dir: ./output
           target_branch: output
           build_dir: dist
