@@ -22,8 +22,8 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2
         with:
           node-version: '20'  # Specify Node.js version (explicitly recommended)
-          build_dir: ./dist  # Directory containing the generated animation (dist/github-snake-dark.svg)
           target_branch: output  # Branch for deployment
+          build_dir: dist/  # Directory containing the generated animation (dist/github-snake-dark.svg)
 
       - name: Configure Git (optional, but recommended for cleaner deployments)
         uses: actions/checkout@v3  # Fetch the latest code (optional)
