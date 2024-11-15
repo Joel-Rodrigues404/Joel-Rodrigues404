@@ -79,4 +79,4 @@
   <img src="https://github.com/Joel-Rodrigues404/Joel-Rodrigues404/blob/output/dist/github-snake-dark.svg" alt="Snake animation">
 </div>
 
-![Snake animation](https://Joel-Rodrigues404.github.io/Joel-Rodrigues404/snake-dark.svg)
+![Snake animation](https://Joel-Rodrigues404.github.io/Joel-Rodrigues404/github-snake-dark.svg)
