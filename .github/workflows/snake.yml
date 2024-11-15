@@ -1,25 +1,25 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Gera o Snake todos os dias à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Gera o Snake diariamente à meia-noite UTC
+  workflow_dispatch: # Permite executar manualmente
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out Git repository
-        uses: actions/checkout@v2
+      - name: Checkout Repositório
+        uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Gerar Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: Joel-Rodrigues404
-          outputs: dist/snake.svg
+          github_user_name: Joel-Rodrigues404 # Substitua pelo seu nome de usuário
+          outputs: snake-dark.svg
 
-      - name: Push Snake to GitHub
+      - name: Deploy para o Branch 'output'
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: /

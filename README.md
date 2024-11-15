@@ -21,6 +21,23 @@
   
 </div>
 
+<!-- MEUS PROJETOS -->
+
+<!-- - **[Projeto 1: Meu Portfólio](https://github.com/Joel-Rodrigues404/meu-portfolio)**  
+  Um portfólio online criado com HTML, CSS e JavaScript, onde exibo minhas habilidades e projetos.
+
+- **[Projeto 2: Sistema de Gerenciamento](https://github.com/Joel-Rodrigues404/gerenciamento)**  
+  Sistema web desenvolvido em Django e PostgreSQL para gerenciamento de tarefas.
+
+- **[Projeto 3: Aplicativo Mobile](https://github.com/Joel-Rodrigues404/meu-app)**  
+  Um aplicativo mobile desenvolvido com React Native para acompanhar hábitos diários. -->
+
+<!-- - **[Projeto 1: Meu Portfólio](https://github.com/Joel-Rodrigues404/meu-portfolio)**  
+  <img src="https://img.shields.io/badge/HTML-blue" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-orange" alt="CSS"/>  
+  Um portfólio online criado com HTML, CSS e JavaScript, onde exibo minhas habilidades e projetos. -->
+
+
+
 <!-- CONTADOR DE VISUALIZAÇÕES -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Joel-Rodrigues404&icon=0&color=5)]() -->
@@ -61,5 +78,6 @@
 <div align="center">
   <img src="https://github.com/Joel-Rodrigues404/Joel-Rodrigues404/blob/output/github-snake-dark.svg" alt="Snake animation">
 </div>
-![Snake animation](https://Joel-Rodrigues404.github.io/Joel-Rodrigues404/snake-dark.svg)
+
+<!-- ![Snake animation](https://Joel-Rodrigues404.github.io/Joel-Rodrigues404/snake-dark.svg) -->
 
