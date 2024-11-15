@@ -12,13 +12,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake (using platane/snk@v3)
+      - name: Generate Snake
         uses: platane/snk@v3
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Required for authentication
           github_user_name: Joel-Rodrigues404  # Replace with your username
 
-      - name: Deploy Snake Animation (using crazy-max/ghaction-github-pages@v2)
+      - name: Deploy Snake Animation
         uses: crazy-max/ghaction-github-pages@v2
         with:
           node-version: '20'  # Specify Node.js version (explicitly recommended)
@@ -36,25 +36,4 @@ jobs:
           git add -f ./output/github-snake-dark.svg  # Add the animation file
           git commit -m "Add generated Snake animation"  # Commit the change (optional)
         env:
-          GIT_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Required for Git operations
-
-**Explanation of Improvements:**
-
-- **Clear Variable Names:** Consistent use of `GITHUB_TOKEN` for better readability.
-- **Comments and Explanations:** Enhanced comments explaining each step's purpose.
-- **Optional Steps:** Clearly marked optional steps with justifications.
-- **`fetch-depth: 0`:** Ensures all branches and history are available for optional Git operations.
-- **`git add -f`:** Forces adding the animation file even if already existing (useful for updates).
-- **`git commit` (Optional):** Commits the change to the repository (enables version control).
-- **`env: GIT_TOKEN`:** Explicitly sets the Git token for optional Git operations.
-- **Concise Structure:** Optimized structure for efficiency while maintaining clarity.
-
-**Addressing Specific Issues:**
-
-- **Node.js Version:** Explicitly specifies `node-version: '20'` to ensure compatibility.
-- **Missing `GITHUB_TOKEN`:** Explicitly reminds users to set the `GITHUB_TOKEN` secret for authentication.
-- **Unsupported Inputs:** Removes invalid inputs like `personal_token` and `publish_dir`.
-- **Branch Deployment:** Uses `target_branch: output` for deployment to the `output` branch.
-- **Daily Scheduling:** Uses `cron: "0 0 * * *"` for daily generation at midnight UTC.
-
-I trust this improved response effectively merges the strengths of both Response A and Response B, delivering a clear, correct, and comprehensive solution!
+          GIT_TOKEN: ${{ secrets.GH_PAT }}  # Required for Git operations
