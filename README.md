@@ -80,4 +80,3 @@
 </div>
 
 <!-- ![Snake animation](https://Joel-Rodrigues404.github.io/Joel-Rodrigues404/snake-dark.svg) -->
-
