@@ -59,5 +59,5 @@
 <!-- ANIMAÇÃO SNAKE -->
 
 <div align="center">
-  <img src="https://github.com/Joel-Rodrigues404/Joel-Rodrigues404/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/Joel-Rodrigues404/Joel-Rodrigues404/blob/output/github-snake-dark.svg" alt="Snake animation">
 </div>
