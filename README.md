@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  <img height="180" widthsrc="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&" alt="Motivational Quotes" />
+  <img widthsrc="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&" alt="Motivational Quotes" />
   
 </div>
 
